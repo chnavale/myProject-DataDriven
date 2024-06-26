@@ -1,0 +1,41 @@
+   INFO 2024-06-17 23:23:11,845 base.BaseTest  - Test Execution Started!!!
+   INFO 2024-06-17 23:23:11,845 base.BaseTest  - Config properties file loaded
+   INFO 2024-06-17 23:23:11,845 base.BaseTest  - OR properties file loaded
+   INFO 2024-06-17 23:23:16,178 base.BaseTest  - Chrome browser launched
+   INFO 2024-06-17 23:23:16,374 base.BaseTest  - Navigated to https://www.way2automation.com/angularjs-protractor/banking/#/login
+   INFO 2024-06-17 23:23:21,091 base.BaseTest  - Database connection established !!!
+   INFO 2024-06-17 23:23:21,287 base.BaseTest  - Clicked on an element bml_XPATH
+   INFO 2024-06-17 23:23:21,386 base.BaseTest  - Finding presence of an element: addCustBtn_XPATH
+   INFO 2024-06-17 23:23:22,306 base.BaseTest  - Clicked on an element addCustBtn_XPATH
+   INFO 2024-06-17 23:23:22,576 base.BaseTest  - Entered the value as "Chaitanya" in firstName_CSS
+   INFO 2024-06-17 23:23:22,751 base.BaseTest  - Entered the value as "Navale" in lastName_CSS
+   INFO 2024-06-17 23:23:22,931 base.BaseTest  - Entered the value as "A56467" in postCode_CSS
+   INFO 2024-06-17 23:23:23,066 base.BaseTest  - Clicked on an element addCustSubmit_CSS
+   INFO 2024-06-17 23:23:24,276 base.BaseTest  - Clicked on an element addCustBtn_XPATH
+   INFO 2024-06-17 23:23:24,418 base.BaseTest  - Entered the value as "Sarika" in firstName_CSS
+   INFO 2024-06-17 23:23:24,552 base.BaseTest  - Entered the value as "Uteakr" in lastName_CSS
+   INFO 2024-06-17 23:23:24,686 base.BaseTest  - Entered the value as "B64793" in postCode_CSS
+   INFO 2024-06-17 23:23:24,766 base.BaseTest  - Clicked on an element addCustSubmit_CSS
+   INFO 2024-06-17 23:23:25,941 base.BaseTest  - Clicked on an element addCustBtn_XPATH
+   INFO 2024-06-17 23:23:26,096 base.BaseTest  - Entered the value as "Sharayu" in firstName_CSS
+   INFO 2024-06-17 23:23:26,276 base.BaseTest  - Entered the value as "Navale" in lastName_CSS
+   INFO 2024-06-17 23:23:26,491 base.BaseTest  - Entered the value as "C64497" in postCode_CSS
+   INFO 2024-06-17 23:23:26,616 base.BaseTest  - Clicked on an element addCustSubmit_CSS
+   INFO 2024-06-17 23:23:27,806 base.BaseTest  - Clicked on an element addCustBtn_XPATH
+   INFO 2024-06-17 23:23:27,956 base.BaseTest  - Entered the value as "Atharva" in firstName_CSS
+   INFO 2024-06-17 23:23:28,153 base.BaseTest  - Entered the value as "Omale" in lastName_CSS
+   INFO 2024-06-17 23:23:28,360 base.BaseTest  - Entered the value as "D65689" in postCode_CSS
+   INFO 2024-06-17 23:23:28,471 base.BaseTest  - Clicked on an element addCustSubmit_CSS
+   INFO 2024-06-17 23:23:29,757 base.BaseTest  - Clicked on an element openAccount_XPATH
+   INFO 2024-06-17 23:23:30,181 base.BaseTest  - Selecting an element customer_CSS and slecting the value as Sarika Uteakr
+   INFO 2024-06-17 23:23:30,373 base.BaseTest  - Selecting an element currency_CSS and slecting the value as Rupee
+   INFO 2024-06-17 23:23:30,481 base.BaseTest  - Clicked on an element process_XPATH
+   INFO 2024-06-17 23:23:31,633 base.BaseTest  - Clicked on an element openAccount_XPATH
+   INFO 2024-06-17 23:23:31,810 base.BaseTest  - Selecting an element customer_CSS and slecting the value as Sharayu Navale
+   INFO 2024-06-17 23:23:32,001 base.BaseTest  - Selecting an element currency_CSS and slecting the value as Dollar
+   INFO 2024-06-17 23:23:32,097 base.BaseTest  - Clicked on an element process_XPATH
+   INFO 2024-06-17 23:23:33,325 base.BaseTest  - Clicked on an element openAccount_XPATH
+   INFO 2024-06-17 23:23:33,610 base.BaseTest  - Selecting an element customer_CSS and slecting the value as Chaitanya Navale
+   INFO 2024-06-17 23:23:33,833 base.BaseTest  - Selecting an element currency_CSS and slecting the value as Pound
+   INFO 2024-06-17 23:23:33,947 base.BaseTest  - Clicked on an element process_XPATH
+   INFO 2024-06-17 23:23:35,923 base.BaseTest  - Test Execution Completed!!!
